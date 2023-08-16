@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evenzy", "Evenzy\Evenzy.csproj", "{4AA1A9D6-DDE8-41A3-B570-9DE54F9A4AC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AA1A9D6-DDE8-41A3-B570-9DE54F9A4AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA1A9D6-DDE8-41A3-B570-9DE54F9A4AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA1A9D6-DDE8-41A3-B570-9DE54F9A4AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA1A9D6-DDE8-41A3-B570-9DE54F9A4AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {165AFB15-2F91-4665-B870-C88B23FB92BE}
+	EndGlobalSection
+EndGlobal

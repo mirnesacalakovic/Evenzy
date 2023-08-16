@@ -1,0 +1,11 @@
+﻿<Application x:Class="Evenzy.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Evenzy"
+             StartupUri="View/EventWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <BitmapImage x:Key="Image" UriSource="ViewModel\Helpers\Assets\8810413.jpg"/>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
